@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">Developer</h3>
-
-- 🔭 I’m currently working on Gaming Project
-
-- 🌱 I’m currently learning bbbbbbbb
-
-- 👯 I’m looking to collaborate on My Project
-
-- 🤝 I’m looking for help with My Project
-
-- 💬 Ask me about bbbbbb
-
-- 📫 How to reach me aaaaaa
-
-- 📄 Know about my experiences [aaaaa](aaaaa)
+<h3 align="center">Want to be developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
