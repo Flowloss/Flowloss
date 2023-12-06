@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 🔭 I’m currently working on my own game **Space Wars**
+- 🔭 I’m currently working on a Crypto group chat application**
 
-- 🌱 I’m currently learning **CSS, Java, JavaFX, sceneBuilder,**
+- 🌱 I’m currently learning **CSS, Java, JavaFX, sceneBuilder, mySQL, Maven**
 
-- 📫 How to reach me **Flowloss1@gmail.com**
+- 📫 How to reach me **kolipopan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
