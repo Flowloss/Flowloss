@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSS, Java, JavaFX, sceneBuilder, mySQL, Maven**
 
-- 📫 How to reach me **kolipopan@gmail.com**
+- 📫 How to reach me **Jacob.davidsson@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
