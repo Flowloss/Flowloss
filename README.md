@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 🔭 I’m currently working on a Crypto group chat application**
-
-- 🌱 I’m currently learning **CSS, Java, JavaFX, sceneBuilder, mySQL, Maven**
-
 - 📫 How to reach me **Jacob.davidsson@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
